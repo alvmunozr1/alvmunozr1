@@ -65,8 +65,8 @@
 -👽
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ALVMUNOZR1">
-    <img src="https://komarev.com/ghpvc/?username=ALVMUNOZR1&label=Profile%20views&color=00FFFF&style=flat-square" alt="ALVMUNOZR1's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=ALVMUNOZR">
+    <img src="https://komarev.com/ghpvc/?username=ALVMUNOZR&label=Profile%20views&color=00FFFF&style=flat-square" alt="ALVMUNOZR's profile views" />
   </a>
 </p>
 
