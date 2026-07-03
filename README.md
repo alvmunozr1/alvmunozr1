@@ -22,13 +22,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/ALVMUNOZR1">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ALVMUNOZR1&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ALVMUNOZR1's GitHub Stats" />
+  <a href="https://github.com/ALVMUNOZR">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ALVMUNOZR&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ALVMUNOZR's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ALVMUNOZR1&theme=dark&hide_border=true&cache_seconds=86400" alt="ALVMUNOZR1's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ALVMUNOZR&theme=dark&hide_border=true&cache_seconds=86400" alt="ALVMUNOZR's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ALVMUNOZR1&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Alvaru's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=ALVMUNOZR&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Alvaru's GitHub Trophies" />
 </p>
 
 
